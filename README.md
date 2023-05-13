@@ -1,10 +1,14 @@
 # 4th Sem
 
+The codes in this repo and UEM's assignments have no similarity, and if anyone writes wrong codes from that link, it is their own responsibility.
+
+---
+
 Go to :arrow_right: [AIML Lab :brain:](#aiml-lab-brain) <br>
 Go to :arrow_right: [OS Lab :penguin:](#os-lab-penguin) <br>
 Go to :arrow_right: [DAA Lab :trollface:](#daa-lab-trollface) <br>
 Go to :arrow_right: [COA Lab :zero: :one:](#coa-lab-zeroone) <br>
-Go to :arrow_right: [Organizational Behavior :briefcase:](#organizational-behavior-briefcase) <br>
+Go to :arrow_right: [Organizational Behaviour :briefcase:](#organizational-behaviour-briefcase) <br>
 Go to :arrow_right: [Study Materials :books:](#study-materials-books) <br>
 Go to :arrow_right: [Question Papers :spiral_notepad:](#question-papers-spiral_notepad)
 
@@ -77,7 +81,7 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/16AH5Eu-h
 
 ---
 
-## Organizational Behavior :briefcase:
+## Organizational Behaviour :briefcase:
 
 | No. | Assignment                                |
 | --- | ----------------------------------------- |
@@ -89,7 +93,7 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/16AH5Eu-h
 
 - [ESP IV](https://drive.google.com/drive/folders/1vQo0cq_sHx6SghQjGW_YZTHeySxcNVHc?usp=share_link)
 - [Environmental Sciences](https://drive.google.com/drive/folders/1-__DgfY-MwTaoyxFDN2RI1L8iHkRibsB?usp=share_link)
-- [Organizational Behavior](https://drive.google.com/drive/folders/1lzAaGkzRAc3y58SlpB09CezFj___q_EY?usp=share_link)
+- [Organizational Behaviour](https://drive.google.com/drive/folders/1lzAaGkzRAc3y58SlpB09CezFj___q_EY?usp=share_link)
 - [Discrete Mathematics](https://drive.google.com/drive/folders/1oR7jzT5vrKZpYrcmbpDN1R5kwsJph-2t?usp=share_link)
 - [Artificial Intelligence & Machine Learning](https://drive.google.com/drive/folders/1WktcDGmhf5h0XcEJI74aFnvt3LDQ0O8F?usp=share_link)
 - [Operating Systems](https://drive.google.com/drive/folders/1AKfa7NIr2bvKNWT4vfEQ0G8k_XMRYuBz?usp=share_link)
@@ -100,7 +104,21 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/16AH5Eu-h
 
 ## Question Papers :spiral_notepad:
 
-### 2022 Question Papers
+<details>
+<summary> 2023 </summary>
+
+- [Environmental Sciences](https://drive.google.com/file/d/1gf0x3XDIsUI-w4jg_Nh1oIcH7xxuXjma/view?usp=share_link)
+- [Organizational Behaviour](https://drive.google.com/file/d/1gjoMIBcKMK0f_cEopeQY6ViMozISSxwK/view?usp=share_link)
+- [Discrete Mathematics](https://drive.google.com/file/d/1ghd9-jNV0DEUFp_z6uIANkQ1gs5Xs3GR/view?usp=share_link)
+- [Artificial Intelligence & Machine Learning](https://drive.google.com/file/d/1gjoW6yWf2z3jvnLUBTGiMrRPGfvWZVeK/view?usp=share_link)
+- [Operating Systems](https://drive.google.com/file/d/1gjuC_1Zgc1_LbiIiw8lqyWQ4JPPfSph-/view?usp=share_link)
+- [Design & Analysis of Algorithms](https://drive.google.com/file/d/1gkUrMI5a7_iTMHA9Mxez6Dwj9iubhCd2/view?usp=share_link)
+- [Computer Organization & Architecture](https://drive.google.com/file/d/1gl0Bj4r-7kO4RzObFu4QATyero2g8e3G/view?usp=share_link)
+
+</details>
+
+<details >
+<summary> 2022 </summary>
 
 - [ESP IV](https://drive.google.com/file/d/1UfgBf4b6X_9JMLBkfDjoyWxpK9_P58ro/view?usp=share_link)
 - [Environmental Sciences](https://drive.google.com/file/d/1UrETmDwnE0WrorZfO3gfoqIqxde1sDNw/view?usp=share_link)
@@ -109,3 +127,11 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/16AH5Eu-h
 - [Operating Systems](https://drive.google.com/file/d/1UgzO846VnlktKa-TGN3Z0ZWTGgvdJbmu/view?usp=share_link)
 - [Design & Analysis of Algorithms](https://drive.google.com/file/d/1Uiks8CjQ1L0lV8Ut7E2P7tKWs2mpvC00/view?usp=share_link)
 - [Computer Organization & Architecture](https://drive.google.com/file/d/1UfCA0jlVO6sk3H7NLnPnN4mkHYEqXlwc/view?usp=share_link)
+
+</details>
+
+---
+
+> Another awesome repo for 4th sem [Link](https://github.com/PixMusicaX/Sem4IOT)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)](https://forthebadge.com)
