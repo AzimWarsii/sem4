@@ -1,6 +1,6 @@
 # 4th Sem
 
-The codes in this repo and UEM's assignments have no similarity, and if anyone writes wrong codes from that link, it is their own responsibility.
+The codes in this repo and UEM's assignments have no similarity, and if anyone writes wrong codes from here, it is their own responsibility.
 
 ---
 
@@ -132,6 +132,7 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/16AH5Eu-h
 
 ---
 
-> Another awesome repo for 4th sem [Link](https://github.com/PixMusicaX/Sem4IOT)
+Another awesome repo for 4th sem [Link](https://github.com/PixMusicaX/Sem4IOT)
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)](https://forthebadge.com)
+<br>
+<img src=https://forthebadge.com/images/badges/powered-by-coders-sweat.svg alt="Powered by Coders Sweat" width="250"/>
